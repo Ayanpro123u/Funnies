@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "funnies:amberite_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_shovel"
+  },
+  "result": {
+    "item": "funnies:amberite_shovel"
+  },
+  "template": {
+    "item": "funnies:amberite_upgrade_smithing_template"
+  }
+}

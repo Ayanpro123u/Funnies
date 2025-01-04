@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "funnies:amberite_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_leggings"
+  },
+  "result": {
+    "item": "funnies:amberite_leggings"
+  },
+  "template": {
+    "item": "funnies:amberite_upgrade_smithing_template"
+  }
+}

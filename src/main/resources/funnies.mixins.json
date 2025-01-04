@@ -1,0 +1,13 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "io.github.ayanpro123u.funnies.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "mixins": ["PlayerEntityMixin"],
+    "client": [
+        "TitleScreenMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

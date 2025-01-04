@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "funnies:amberite_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_sword"
+  },
+  "result": {
+    "item": "funnies:amberite_sword"
+  },
+  "template": {
+    "item": "funnies:amberite_upgrade_smithing_template"
+  }
+}

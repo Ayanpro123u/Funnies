@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "funnies:amberite_hoe"
+    },
+    "title": "Super Serious Dedication",
+    "description": "Use your precious amberite ingot to upgrade a netherite hoe, and then rethink your whole life",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:husbandry/obtain_netherite_hoe",
+  "criteria": {
+    "a": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "funnies:amberite_hoe_smithing"
+      }
+    }
+  },
+  "requirements": [],
+  "rewards": {
+    "experience": 100
+  }
+}

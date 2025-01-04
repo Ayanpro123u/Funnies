@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "GSG",
+    "SRS",
+    "GSG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gunpowder"
+    },
+    "S": {
+      "item": "minecraft:sand"
+    },
+    "R": {
+      "item": "minecraft:lever"
+    }
+  },
+  "result": {
+    "item": "funnies:portable_tnt",
+    "count": 1
+  },
+  "show_notification": true
+}

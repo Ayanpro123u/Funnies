@@ -1,0 +1,23 @@
+{
+  "enchantment.funnies.frostbite": "Frostbite",
+  "enchantment.funnies.reaping": "Reaping",
+  "item.funnies.amberite_axe": "Amberite Axe",
+  "item.funnies.amberite_boots": "Amberite Boots",
+  "item.funnies.amberite_chestplate": "Amberite Chestplate",
+  "item.funnies.amberite_helmet": "Amberite Helmet",
+  "item.funnies.amberite_hoe": "Amberite Hoe",
+  "item.funnies.amberite_ingot": "Amberite Ingot",
+  "item.funnies.amberite_ingot.tooltip_line1": "An ingot of amberite,",
+  "item.funnies.amberite_ingot.tooltip_line2": "a rare and powerful material",
+  "item.funnies.amberite_ingot.tooltip_line3": "capable of creating extreme",
+  "item.funnies.amberite_ingot.tooltip_line4": "weapons of mass destruction",
+  "item.funnies.amberite_leggings": "Amberite Leggings",
+  "item.funnies.amberite_pickaxe": "Amberite Pickaxe",
+  "item.funnies.amberite_shovel": "Amberite Shovel",
+  "item.funnies.amberite_sword": "Amberite Sword",
+  "item.funnies.portable_tnt": "Portable TNT",
+  "item.funnies.portable_tnt.tooltip": "A short fuse TNT that can be thrown at enemies",
+  "item.funnies.rail_cannon": "Rail Cannon",
+  "item.funnies.scythe": "Scythe",
+  "upgrade.netherite_upgrade": "Amberite Upgrade"
+}
